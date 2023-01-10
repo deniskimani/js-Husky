@@ -1,0 +1,25 @@
+{
+  "name": "virtual-pet",
+  "version": "1.0.0",
+  "description": "A javascript pet",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deniskimani/js-Husky.git"
+  },
+  "keywords": [
+    "pet"
+  ],
+  "author": "Denis Kimani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deniskimani/js-Husky/issues"
+  },
+  "homepage": "https://github.com/deniskimani/js-Husky#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
